@@ -1,6 +1,6 @@
 {
     "Braintree_Auth": {
-        "v1": {
+        "v1_stop": {
             "url1": {
                 "links": ["link1", "link2"],
                 "cookies": ["cookie1", "cookie2"],
@@ -13,7 +13,7 @@
             }
         },
         "v2": {
-            "url1": {
+            "url1_stop": {
                 "links": ["link7", "link8"],
                 "cookies": ["cookie7", "cookie8"],
                 "accessToken": ["token"]
