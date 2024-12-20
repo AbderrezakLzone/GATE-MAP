@@ -1,0 +1,54 @@
+{
+    "Braintree_Auth": {
+        "v1_stop": {
+            "url1": {
+                "links": ["link1", "link2"],
+                "cookies": ["cookie1", "cookie2"],
+                "accessToken": ["token"]
+            },
+            "url2": {
+                "links": ["link3", "link4"],
+                "cookies": ["cookie3", "cookie4"],
+                "accessToken": ["token"]
+            }
+        },
+        "v2_stop": {
+            "url1_stop": {
+                "links": ["link7", "link8"],
+                "cookies": ["cookie7", "cookie8"],
+                "accessToken": ["token"]
+            },
+            "url2": {
+                "links": ["link3", "link4"],
+                "cookies": ["cookie3", "cookie4"],
+                "accessToken": ["token"]
+            }
+        }
+    },
+    "3DS Lookup": {
+        "v1": {
+            "url1": {
+                "links": ["link1", "link2"],
+                "cookies": ["cookie1", "cookie2"],
+                "accessToken": ["token"]
+            },
+            "url2": {
+                "links": ["link3", "link4"],
+                "cookies": ["cookie3", "cookie4"],
+                "accessToken": ["token"]
+            }
+        },
+        "v2": {
+            "url1": {
+                "links": ["link7", "link8"],
+                "cookies": ["cookie7", "cookie8"],
+                "accessToken": ["token"]
+            },
+            "url2": {
+                "links": ["link3", "link4"],
+                "cookies": ["cookie3", "cookie4"],
+                "accessToken": ["token"]
+            }
+        }
+    }
+}
