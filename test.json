@@ -12,7 +12,7 @@
                 "accessToken": ["token"]
             }
         },
-        "v2": {
+        "v2_stop": {
             "url1_stop": {
                 "links": ["link7", "link8"],
                 "cookies": ["cookie7", "cookie8"],
