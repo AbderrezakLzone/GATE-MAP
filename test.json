@@ -5,13 +5,13 @@
         "links": ["link1", "link2"],
         "cookies": ["cookie1", "cookie2"]
       },
-      "url2": {
+      "url666666": {
         "links": ["link3", "link4"],
         "cookies": ["cookie3", "cookie4"]
       }
     },
     "v2": {
-      "url1": {
+      "url5": {
         "links": ["link7", "link8"],
         "cookies": ["cookie7", "cookie8"]
       }
