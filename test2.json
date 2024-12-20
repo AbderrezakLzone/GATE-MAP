@@ -26,7 +26,7 @@
         }
     },
     "3DS_Lookup": {
-        "v1_stop": {
+        "v1": {
             "url1": {
                 "links": ["link1", "link2"],
                 "cookies": ["cookie1", "cookie2"],
@@ -38,7 +38,7 @@
                 "accessToken": ["token"]
             }
         },
-        "v2": {
+        "v2_stop": {
             "url1": {
                 "links": ["link7", "link8"],
                 "cookies": ["cookie7", "cookie8"],
