@@ -25,7 +25,7 @@
             }
         }
     },
-    "3DS Lookup": {
+    "3DS_Lookup": {
         "v1_stop": {
             "url1": {
                 "links": ["link1", "link2"],
